@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LiYueYuan</title>
+    <link>http://www.liyueyuan.com/</link>
+    <description>Recent content on LiYueYuan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="http://www.liyueyuan.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://www.liyueyuan.com/about/</link>
+      <pubDate>Wed, 10 May 2023 09:01:02 +0800</pubDate>
+      
+      <guid>http://www.liyueyuan.com/about/</guid>
+      <description>这是一篇关于我的文章</description>
+    </item>
+    
+  </channel>
+</rss>
